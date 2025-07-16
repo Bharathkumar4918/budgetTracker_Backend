@@ -1,0 +1,36 @@
+{
+    "transaction":[
+    {  
+    "id":1,
+    "description":"Stationary shopping",
+    "amount":500,
+    "type":"income",
+    "category":"Books",
+    "date":"2005-07-25",
+    "paymentmethod":"upi"
+    }
+],
+"transaction1":[
+    {  
+    "id":1,
+    "description":" shopping",
+    "amount":1500,
+    "type":"income",
+    "category":"Shirts",
+    "date":"26-07-25",
+    "paymentmethod":"upi"
+    }
+],
+"transaction3":[
+    {  
+    "id":3,
+    "description":"Groceries shopping",
+    "amount":1000,
+    "type":"income",
+    "category":"Veggis",
+    "date":"25-07-25",
+    "paymentmethod":"upi"
+    }
+]
+
+}
